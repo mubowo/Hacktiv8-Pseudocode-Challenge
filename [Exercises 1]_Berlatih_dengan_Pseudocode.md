@@ -80,19 +80,29 @@ Jawaban Tahun kabisat:
 	Bantulah Foxie untuk menghitung jumlah pakaian yang akan dimasukkan ke mesin cuci menggunakan algoritma & pseudocode perulangan!
 
 	1. Algoritma Laundry Day
+	
 			a. Prepare the clothes
+			
 			b. Prepare the washing machine detergent
+			
 			c. Insert the clothes one by one into the washing machine
+			
 			d. Insert adequate level of water into washing machine
+			
 			e. Start the washing machine to wash the clothes
 	
 	2. Pseudocode Laundry Day
+			
 			a. OBTAIN the clothes
+			
 			b. GET washing machine detergent
+			
 			c. FOR clothes = 1 to 20
-					INSERT clothes into washing machine
+				INSERT clothes into washing machine
 				END FOR
+			
 			d. GET water into washing machine
+			
 			e. SET washing machine to START
 
 
@@ -102,19 +112,33 @@ Jawaban Tahun kabisat:
 	Buatlah algoritma & pseudocode untuk permasalahan diatas.
 	
 	1. Algoritma Periksa Kuku
+	
 		a. Teacher instruct the student to put the student finger on the desk
+		
 		b. Teacher observe the nail of the student one by one per desk
+		
 			if the student nail is long then the teacher will punish the student 
+			
 			if the student nail is not long then the teacher will give compliment to the student
 			
 	2. Pseudocode
+	
 		a. GET the student to put the finger on the desk
+		
 		b. INIT the inspection of the student nail
+		
 		c. FOR student = 1 to 40
+		
 				DETERMINE the length of the student nail
+				
 				IF student nail long THEN
+				
 					INIT punishment to the student
+					
 				ELSE
+				
 					INIT compliment to the student
+					
 				END IF
+				
 		d. END Inspection of the student nail
